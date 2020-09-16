@@ -1,28 +1,33 @@
 {
   "default": {
-    "width": 1280,
+    "width": 720,
     "height": 720,
     "framesPerSecond": 20,
-    "maxDuration": 300,
+    "maxDuration": 600,
     "samplesPerFrame": 128,
     "pattern": "wave",
     "waveTop": 150,
     "waveBottom": 420,
     "captionTop": 470,
-    "captionFont": "300 52px 'Source Sans Pro'",
+    "captionFont": "300 30px 'Source Sans Pro'",
     "captionLineHeight": 52,
     "captionLineSpacing": 7,
     "captionLeft": 200,
     "captionRight": 1080
   },
   "Never Games": {
-    "width": 720,
     "backgroundImage": "logo.jpg",
     "backgroundColor": "black",
+    "foregroundColor": "white",
+    "framesPerSecond": 20,
     "pattern": "bricks",
     "waveColor": "white",
-    "waveBottom": 525,
-    "waveTop": 150
+    "waveBottom": 515,
+    "waveTop": 50,
+    "captionTop": 10,
+    "captionAlign": "left",
+    "captionLeft": 25,
+    "captionLineheight": 25
   },
   "Basic": {
     "backgroundColor": "#eee",
