@@ -22,7 +22,7 @@
     "pattern": "bricks",
     "waveColor": "white",
     "waveBottom": 525,
-    "waveTop": 200
+    "waveTop": 150
   },
   "Basic": {
     "backgroundColor": "#eee",
