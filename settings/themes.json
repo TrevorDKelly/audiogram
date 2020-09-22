@@ -16,13 +16,13 @@
     "captionRight": 1080
   },
   "Never Games": {
-    "backgroundImage": "logo.jpg",
+    "backgroundImage": "Leather.jpeg",
     "backgroundColor": "black",
     "foregroundColor": "white",
     "framesPerSecond": 20,
     "pattern": "bricks",
     "waveColor": "white",
-    "waveBottom": 515,
+    "waveBottom": 557,
     "waveTop": 50,
     "captionTop": 10,
     "captionAlign": "left",
